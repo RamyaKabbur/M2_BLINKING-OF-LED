@@ -1,1 +1,3 @@
+# ABSTRACT
+LED is a semiconductor light emitting diode. We know that diode allows the current in one direction and does not allow the reverse current which will affect the components in the circuit. LED also do the same function but will emit a small light when it allowed the current,which will give the sign or visual indication to the normal human that circuit is working. There are lots of applications using LEDs. They are mainly used for visual indication in any electronic devices, measuring and interacting with the process, displaying the pictures in TV or in any advertisement hoarding,etc.
 
